@@ -8,8 +8,6 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 
 These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
-This dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality , I just shared it to kaggle for convenience. (If I am mistaken and the public license type disallowed me from doing so, I will take this down if requested.)
-
 Content
 
 For more information, read [Cortez et al., 2009].
